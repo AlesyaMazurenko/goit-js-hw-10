@@ -18,3 +18,19 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.text {
+  font-weight: 600;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 10px;
+
+}
+
+.img-list {
+  width: 30px;
+  margin-right: 8px;
+  
+}
